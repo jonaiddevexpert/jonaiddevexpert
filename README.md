@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Junaid 👋
+# Hi, I'm Muhammad Jonaid 👋
 
 ### WordPress Developer | Web Developer | Shopify Expert | SEO Specialist
 
