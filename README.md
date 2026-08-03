@@ -109,14 +109,14 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 ✅ Lightning-Fast Website Performance
 
 🏢 Experience
-AbramSoft (Pvt) Ltd — Pakistan
-SEO Specialist | WordPress & Shopify Expert | Project Manager
+AbramSoft (Pvt) Ltd — Pakistan<br>
+SEO Specialist | WordPress & Shopify Expert | Project Manager<br>
 (Jan 2025 – Aug 2026 Present)
 
-✅ Delivering complete WordPress & Shopify development solutions
-✅ Managing project lifecycles from planning to successful delivery
-✅ Executing advanced SEO strategies for higher rankings and traffic
-✅ Developing fast, responsive, and SEO-friendly websites
+✅ Delivering complete WordPress & Shopify development solutions<br>
+✅ Managing project lifecycles from planning to successful delivery<br>
+✅ Executing advanced SEO strategies for higher rankings and traffic<br>
+✅ Developing fast, responsive, and SEO-friendly websites<br>
 ✅ Collaborating with clients to achieve measurable business results
 
 ## 📍 Location
