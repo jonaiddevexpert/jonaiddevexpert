@@ -97,35 +97,16 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 ![Migration](https://img.shields.io/badge/Migration-666666?style=for-the-badge)
 
 
-## 🛠️ Technologies & Tools
 
-**Development**
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-
-**CMS**
-- WordPress
-- Elementor
-- WooCommerce
-- Shopify
-
-**SEO Tools**
-- Google Search Console
-- Google Analytics
-- SEMrush
-- Ahrefs
 
 ## 💼 What I Work On
 
-✔ Business Websites  
-✔ WordPress Solutions  
-✔ Shopify Stores  
-✔ WooCommerce Stores  
-✔ SEO Optimization  
-✔ Website Performance Improvement  
+✅ Custom Business Websitesz<br>
+✅ Scalable WordPress Solutions<br>
+✅ High-Converting Shopify Stores<br>
+✅ Powerful WooCommerce eCommerce<br>
+✅ SEO & Organic Growth Optimization<br>
+✅ Lightning-Fast Website Performance
 
 ## 📍 Location
 
