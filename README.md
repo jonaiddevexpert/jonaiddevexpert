@@ -121,7 +121,7 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ### Hivenexis — Pakistan (Internship)<br>
 #### WordPress & Shopify Development Intern<br>
-(Jan 2025 – Aug 2026 Present)
+(fab 2024 – oct 2024)
 
 ✅ Assisted in WordPress & Shopify website development<br>
 ✅ Theme customization and responsive page design<br>
