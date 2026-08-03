@@ -13,20 +13,21 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ### 🌐 WordPress Development
 
-✅ Custom WordPress Website Development
-✅ Pixel-Perfect Theme Customization & Custom Development
-✅ Advanced Plugin Integration & Custom Functionality
-✅ Elementor Pro, WPBakery, Gutenberg & Divi Expert
-✅ High-Converting WooCommerce Store Development
-✅ Speed Optimization (90+ PageSpeed & Core Web Vitals)
-✅ WordPress Bug Fixes, Security & Ongoing Maintenance
+✅ Custom WordPress Website Development<br>
+✅ Pixel-Perfect Theme Customization & Custom Development<br>
+✅ Advanced Plugin Integration & Custom Functionality<br>
+✅ Elementor Pro, WPBakery, Gutenberg & Divi Expert<br>
+✅ High-Converting WooCommerce Store Development<br>
+✅ Speed Optimization (90+ PageSpeed & Core Web Vitals)<br>
+✅ WordPress Bug Fixes, Security & Ongoing Maintenance<br>
 ### 🛒 Shopify Development
 
-☑ Shopify Store Setup<br>
-☑ Theme Customization<br>
-☑ Shopify Liquid Editing<br>
-☑ Product Management<br>
-☑ Store Optimization
+✅ High-Converting Shopify Store Setup<br>
+✅ Custom Theme Development & Responsive Design<br>
+✅ Shopify Liquid Customization & Advanced Features<br>
+✅ Product Uploads, Variants & Collection Management<br>
+✅ Third-Party App Integration & Automation<br>
+✅ Performance, SEO & User Experience Optimization
 
 ### 🔍 SEO
 
