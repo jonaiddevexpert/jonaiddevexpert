@@ -119,6 +119,16 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 ✅ Developing fast, responsive, and SEO-friendly websites<br>
 ✅ Collaborating with clients to achieve measurable business results
 
+### Hivenexis — Pakistan (Internship)<br>
+#### WordPress & Shopify Development Intern<br>
+(Jan 2025 – Aug 2026 Present)
+
+✅ Assisted in WordPress & Shopify website development<br>
+✅ Theme customization and responsive page design<br>
+✅ Product, collection, and content management<br>
+✅ Plugin & app integration with custom functionality<br>
+✅ Performance optimization and SEO-friendly website setup
+
 ## 📍 Location
 
 Lahore, Pakistan
