@@ -40,6 +40,63 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 ✅ GA4, Google Search Console & SEO Performance Tracking<br>
 ✅ Local SEO & Google Business Profile (GBP) Management
 
+# 🧰 Technologies & Tools
+
+## 💻 Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+## 🌐 CMS & Builders
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WPBakery](https://img.shields.io/badge/WPBakery-0073AA?style=for-the-badge)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge)
+![Divi](https://img.shields.io/badge/Divi-7F54B3?style=for-the-badge)
+
+
+## 🛒 E-commerce
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-96BF48?style=for-the-badge)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge)
+![Dropshipping](https://img.shields.io/badge/Dropshipping-FF9900?style=for-the-badge)
+
+
+## 📈 SEO & Marketing Tools
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8800?style=for-the-badge)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge)
+![Google Business Profile](https://img.shields.io/badge/Google_Business_Profile-4285F4?style=for-the-badge)
+
+
+## ⚡ Performance & Optimization
+
+![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?style=for-the-badge)
+![GTmetrix](https://img.shields.io/badge/GTmetrix-00AEEF?style=for-the-badge)
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-34A853?style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge)
+
+
+## 🛠️ Other Tools
+
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Hosting](https://img.shields.io/badge/Hosting-0073AA?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-0064A5?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Migration](https://img.shields.io/badge/Migration-666666?style=for-the-badge)
+
+
 ## 🛠️ Technologies & Tools
 
 **Development**
