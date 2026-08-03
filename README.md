@@ -31,9 +31,9 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ### 🔍 SEO
 
-☑ On-Page SEO (Meta Tags, Content, Internal Linking)
-☑ Off-Page SEO (Backlinks, Authority Building)
-☑ Technical SEO (Crawlability, Indexing, Speed)
+☑ On-Page SEO (Meta Tags, Content, Internal Linking)<br>
+☑ Off-Page SEO (Backlinks, Authority Building)<br>
+☑ Technical SEO (Crawlability, Indexing, Speed)<br>
 ☑ Keyword Research & Competitor Analysis
 ☑ SEO Audit & Reporting
 ☑ Google Analytics & Search Console
