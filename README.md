@@ -101,7 +101,7 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ## 💼 What I Work On
 
-✅ Custom Business Websitesz<br>
+✅ Custom Business Websites<br>
 ✅ Scalable WordPress Solutions<br>
 ✅ High-Converting Shopify Stores<br>
 ✅ Powerful WooCommerce eCommerce<br>
