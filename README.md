@@ -23,11 +23,11 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ### 🛒 Shopify Development
 
-- Shopify Store Setup
-- Theme Customization
-- Shopify Liquid Editing
-- Product Management
-- Store Optimization
+☑ Shopify Store Setup
+☑ Theme Customization
+☑ Shopify Liquid Editing
+☑ Product Management
+☑ Store Optimization
 
 ### 🔍 SEO
 
