@@ -31,15 +31,14 @@ I create modern websites, eCommerce stores, and optimized digital solutions with
 
 ### 🔍 SEO
 
-☑ On-Page SEO (Meta Tags, Content, Internal Linking)<br>
-☑ Off-Page SEO (Backlinks, Authority Building)<br>
-☑ Technical SEO (Crawlability, Indexing, Speed)<br>
-☑ Keyword Research & Competitor Analysis<br>
-☑ SEO Audit & Reporting<br>
-☑ Google Analytics & Search Console<br>
-☑ AI SEO, AEO (Answer Engine Optimization) & GEO SEO<br>
-☑ Semantic SEO, Entity SEO & Search Intent Optimization<br>
-☑ Google Business Profile (GBP) Optimization<br>
+✅ Data-Driven On-Page & Technical SEO<br>
+✅ Authority-Building Link Strategy & Off-Page SEO<br>
+✅ Advanced Keyword Research & Competitor Insights<br>
+✅ AI-Powered SEO, AEO & GEO Optimization<br>
+✅ Semantic SEO & Entity-Based Content Optimization<br>
+✅ Core Web Vitals & Website Performance Optimization<br>
+✅ GA4, Google Search Console & SEO Performance Tracking<br>
+✅ Local SEO & Google Business Profile (GBP) Management
 
 ## 🛠️ Technologies & Tools
 
